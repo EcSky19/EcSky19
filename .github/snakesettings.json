@@ -2,7 +2,7 @@
   "theme": "github-dark",
   "svg": {
     "color_snake": "#00ffff",
-    "color_dots": "#444444",
-    "color_bg": "transparent"
+    "color_dots": "#000000",       // black blocks
+    "color_bg": "transparent"      // transparent background
   }
 }
