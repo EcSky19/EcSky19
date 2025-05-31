@@ -1,0 +1,8 @@
+{
+  "theme": "github-dark",
+  "svg": {
+    "color_snake": "#00ffff",
+    "color_dots": "#444444",
+    "color_bg": "transparent"
+  }
+}
