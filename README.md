@@ -10,3 +10,5 @@ I'm a 3rd year Computer Science major with an AI minor at Cornell Engineering, p
 - 🌐 Portfolio: [ethancoskay.dev](https://ethancoskay.dev) _(or update with your real domain if applicable)_
 
 Let's build something cool together 🚀
+
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancoskay&show_icons=true&theme=default)
