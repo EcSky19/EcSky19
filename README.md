@@ -11,4 +11,4 @@ I'm a 3rd year Computer Science major with an AI minor at Cornell Engineering, p
 
 Let's build something cool together 🚀
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancoskay&show_icons=true&theme=default)
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcSky19&show_icons=true&theme=default)
