@@ -1,7 +1,5 @@
 ### Hi, I'm Ethan 👋
 
-## 🐍 GitHub Contribution Snake
-
 ![snake gif](https://github.com/EcSky19/EcSky19/blob/output/github-contribution-grid-snake.svg)
 
 
