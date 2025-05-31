@@ -7,7 +7,7 @@ I'm a 3rd year Computer Science major with an AI minor at Cornell Engineering, p
 - 🌍 Exploring how to connect people through technology and meaningful interactions  
 - 📊 Interested in AI/ML, FinTech, and Software Engineering  
 - 📫 Reach me at: [enc33@cornell.edu](mailto:enc33@cornell.edu)  
-- 🌐 Portfolio: [ethancoskay.dev](https://ethancoskay.dev) _(or update with your real domain if applicable)_
+- 🌐 Portfolio: [ethancoskay.dev](https://ethancoskay.dev) _(coming soon)_
 
 Let's build something cool together 🚀
 
