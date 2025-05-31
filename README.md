@@ -1,7 +1,21 @@
 ### Hi, I'm Ethan 👋
 
-![snake gif](https://github.com/EcSky19/EcSky19/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
 I'm a 3rd year Computer Science major with an AI minor at Cornell Engineering, passionate about building impactful software products. Whether it's gaining foundation in fintech applications or leading startup initiatives, I love turning ideas into real-world solutions.
 
