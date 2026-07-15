@@ -20,7 +20,7 @@
 I'm a 3rd year Computer Science major with an AI minor at Cornell Engineering, passionate about building impactful software products. Whether it's gaining foundation in fintech applications or leading startup initiatives, I love turning ideas into real-world solutions.
 
 - 🧠 Currently learning more about AI, XR, and Quantitative Finance  
-- 🔧 Building [Mingly.ai](https://github.com/EcSky19/Mingly), an AI-powered social discovery platform  
+- 🔧 Building Investment Intelligence System, an AI-powered modular investment intelligence system   
 - 🌍 Exploring how to connect people through technology and meaningful interactions  
 - 📊 Interested in AI/ML, FinTech, and Software Engineering  
 - 📫 Reach me at: [enc33@cornell.edu](mailto:enc33@cornell.edu)  
