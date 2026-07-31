@@ -17,7 +17,7 @@
 </picture>
 </div>
 
-I'm a 3rd year Computer Science major with an AI minor at Cornell Engineering, passionate about building impactful software products. Whether it's gaining foundation in fintech applications or leading startup initiatives, I love turning ideas into real-world solutions.
+I'm a senior Computer Science major with an AI minor at Cornell Engineering, passionate about building impactful software products. Whether it's gaining foundation in fintech applications or leading startup initiatives, I love turning ideas into real-world solutions.
 
 - 🧠 Currently learning more about AI, XR, and Quantitative Finance  
 - 🔧 Building Investment Intelligence System, an AI-powered modular investment intelligence system   
