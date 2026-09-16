@@ -20,9 +20,9 @@
 I'm a senior Computer Science major with an AI minor at Cornell Engineering, passionate about building impactful software products. Whether it's gaining foundation in fintech applications or leading startup initiatives, I love turning ideas into real-world solutions.
 
 - 🧠 Currently learning more about AI/ML, XR, and FinTech & Finance
+- 🌍 Exploring how to connect people through technology and meaningful interactions  
 - 🤝 Building Mingly.ai, an ML-first social platform helping career-oriented professionals build genuine connections outside of work  
 - 🔧 Building Investment Intelligence System, an AI-powered modular investment intelligence system   
-- 🌍 Exploring how to connect people through technology and meaningful interactions  
 - 💼 Interested in 2027 Software Engineering Career Opportunities  
 - 📫 Reach me at: [enc33@cornell.edu](mailto:enc33@cornell.edu)  
 - 🌐 Portfolio: [ethancoskay.dev](https://ethancoskay.dev) _(coming soon)_
