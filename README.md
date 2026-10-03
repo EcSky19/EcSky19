@@ -31,54 +31,54 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
 ## 🧰 Tech Stack & Tools
 
 ### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="48" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40" alt="C" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="40" alt="C#" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=swift" width="40" alt="Swift" title="Swift"/>
+  <img src="https://skillicons.dev/icons?i=ocaml" width="40" alt="OCaml" title="OCaml"/>
 </p>
 
 ### 🧠 AI / Machine Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="48" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="scikit-learn" title="scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" title="OpenCV"/>
 </p>
 
 ### 🧰 Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="40" alt="Flask" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40" alt=".NET" title=".NET"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" title="FastAPI"/>
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" width="40" alt="Google Cloud" title="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="40" alt="Azure" title="Azure"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker"/>
 </p>
 
 ### 🛠️ Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" title="GitHub"/>
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="SQLite" title="SQLite"/>
 </p>
 
 ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcSky19&show_icons=true&theme=default&bg_color=00000000)
