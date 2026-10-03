@@ -57,6 +57,8 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
   <img src="https://skillicons.dev/icons?i=flask" width="40" alt="Flask" title="Flask"/>
   <img src="https://skillicons.dev/icons?i=dotnet" width="40" alt=".NET" title=".NET"/>
   <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/EcSky19/EcSky19/main/assets/icons/antdesign.svg" width="40" alt="Ant Design" title="Ant Design"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -64,6 +66,7 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
   <img src="https://skillicons.dev/icons?i=gcp" width="40" alt="Google Cloud" title="Google Cloud"/>
   <img src="https://skillicons.dev/icons?i=azure" width="40" alt="Azure" title="Azure"/>
   <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)"/>
 </p>
 
 ### 🛠️ Tools
@@ -72,6 +75,8 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
   <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/EcSky19/EcSky19/main/assets/icons/ffmpeg.svg" width="40" alt="FFmpeg" title="FFmpeg"/>
+  <img src="https://skillicons.dev/icons?i=latex" width="40" alt="LaTeX" title="LaTeX"/>
 </p>
 
 ### 🗄️ Databases
@@ -79,6 +84,7 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
   <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="SQLite" title="SQLite"/>
+  <img src="https://raw.githubusercontent.com/EcSky19/EcSky19/main/assets/icons/cosmosdb.svg" width="40" alt="Azure Cosmos DB" title="Azure Cosmos DB"/>
 </p>
 
 ![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcSky19&show_icons=true&theme=default&bg_color=00000000)
