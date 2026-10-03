@@ -87,5 +87,5 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
   <img src="https://raw.githubusercontent.com/EcSky19/EcSky19/main/assets/icons/cosmosdb.svg" width="36" alt="Azure Cosmos DB" title="Azure Cosmos DB"/>
 </p>
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcSky19&show_icons=true&theme=default&bg_color=00000000)
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcSky19&show_icons=true&theme=default&bg_color=00000000&count_private=true&show=reviews,prs_merged)
 
