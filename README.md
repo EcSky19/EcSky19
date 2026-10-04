@@ -21,7 +21,7 @@ I'm a senior Computer Science major with an AI minor at Cornell Engineering, pas
 
 - 🧠 Currently learning more about AI/ML, XR, and FinTech & Finance
 - 🌍 Exploring how to connect people through technology and meaningful interactions  
-- 🤝 Building Mingly.ai, an ML-first social platform helping career-oriented professionals build genuine connections outside of work  
+- 🤝 Building [Mingly.ai](https://www.mingly.ai/), an ML-first social platform helping career-oriented professionals build genuine connections outside of work  
 - 🔧 Building Investment Intelligence System, an AI-powered modular investment intelligence system   
 - 💼 Interested in 2027 Software Engineering Career Opportunities  
 - 📫 Reach me at: [enc33@cornell.edu](mailto:enc33@cornell.edu)  
